@@ -5,7 +5,10 @@ This is a [Vapor](https://vapor.codes)-based implementation of a Spotify Token S
 
 This repository does not contain a self-running application, but provides files which can be plugged or adapted into a Vapor-based project.
 
+The given code compiles and runs with Vapor version `4.10.0`.
+
 I'm using these exact files in a current project and haven't encountered any issues so far, but plan to update this repo if I do.
+
 
 ### Overview of procedure
 
